@@ -60,8 +60,8 @@ The application window is divided into:
 
 ```bash
 # Clone the repository
-git clone https://github.com/NIMAB4/Comprehensive-Machine-Vision-Image-Processing-System.git
-cd Comprehensive-Machine-Vision-Image-Processing-System
+git clone https://github.com/NIMAB4/Machine-Vision-System.git
+cd Machine-Vision-System
 
 # Install dependencies
 pip install -r requirements.txt

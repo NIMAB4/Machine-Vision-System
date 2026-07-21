@@ -59,8 +59,8 @@
 
 ```bash
 # کلون کردن مخزن
-git clone https://github.com/NIMAB4/Comprehensive-Machine-Vision-Image-Processing-System.git
-cd Comprehensive-Machine-Vision-Image-Processing-System
+git clone https://github.com/NIMAB4/Machine-Vision-System.git
+cd Machine-Vision-System
 
 # نصب وابستگی‌ها
 pip install -r requirements.txt
